@@ -17,8 +17,9 @@ This is frontend starter project for nodejs-aws mentoring program. It uses the f
 - [TypeScript](https://www.typescriptlang.org/) as a type checking tool
 
 
-CloudFront https://d38flcy55fj0qw.cloudfront.net/
-S3 https://aws-for-js-task2.s3.eu-central-1.amazonaws.com/index.html
+CloudFront https://dgct7teas9v7e.cloudfront.net/index.html -> and then click logo
+Products https://kwe5ktkkb9.execute-api.eu-central-1.amazonaws.com/products
+Product https://kwe5ktkkb9.execute-api.eu-central-1.amazonaws.com/products/1
 
 ## Available Scripts
 
