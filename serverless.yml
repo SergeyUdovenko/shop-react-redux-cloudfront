@@ -1,3 +1,5 @@
+org: serhii1udovenko
+app: fe-aws-shop
 service: aws-for-js-task2
 
 frameworkVersion: "3"
@@ -5,7 +7,7 @@ frameworkVersion: "3"
 provider:
   name: aws
   runtime: nodejs14.x
-  region: eu-west-1
+  region: eu-central-1
   # setup profile for AWS CLI.
   # profile: node-aws
 
